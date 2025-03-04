@@ -1,4 +1,5 @@
-## Welcome to my Kaggle Projects Repository! 🚀 This repository contains multiple data analysis and machine learning projects based on datasets from Kaggle. Each project includes a dataset link, a Jupyter Notebook, and key insights from the analysis.
+## Welcome to my Kaggle Projects Repository! 🚀 This repository contains multiple data analysis and machine learning projects based on datasets from Kaggle.
+## Each project includes a dataset link, a Jupyter Notebook, and key insights from the analysis.
 
 Projects Overview
 1️⃣ E-Commerce Customer Analysis (Linear Regression)
